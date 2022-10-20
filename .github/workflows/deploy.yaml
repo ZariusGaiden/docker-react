@@ -27,4 +27,4 @@ jobs:
           region: eu-north-1
           version_label: ${{ github.sha }}
           deployment_package: deploy.zip
-# Dockerreact-env.eba-vwqpmuzs.eu-north-1.elasticbeanstalk.com
+#Dockerreact-env.eba-vwqpmuzs.eu-north-1.elasticbeanstalk.com
